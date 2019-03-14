@@ -1,5 +1,5 @@
 # Feasibility Study of Lex Luthor's Plan in Superman (1978)  
-This data project is a feasibility study to analyze costs needed to implement LexCorp's plan.   
+This data project is a feasibility study to analyze costs needed to implement the plan, and recommend a financial strategy for execution.   
 
 **Project Phase**: Proposal  
 **Status**: In-progress  
