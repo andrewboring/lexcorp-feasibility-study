@@ -19,7 +19,13 @@ The purpose of this study is to determine which parcels of land (by zip code) to
 
 Potential sources of data include:
 * US Geological Survey (fault information)
+
+
 * Zillow (real estate market prices)
+* Loopnet (commerical real estate)
+* Tax assessment records
+* MLS
+
 * US Government Open Data service
 * California Open Data service
 
